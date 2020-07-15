@@ -1,2 +1,2 @@
-# quizzler_full
+# quizzing app made with flutter
  
